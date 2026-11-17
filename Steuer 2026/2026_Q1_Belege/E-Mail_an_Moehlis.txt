@@ -1,0 +1,65 @@
+An:       [E-Mail-Adresse Frau Möhlis]
+Betreff:  KI-Integration in Vectorworks – Terminwunsch mit Ihrem technischen Team
+
+Sehr geehrte Frau Möhlis,
+
+vielen Dank für das angenehme Telefonat. Anbei wie besprochen eine kurze
+Zusammenfassung – und vorab ein konkreter Terminwunsch: Wir würden uns sehr
+freuen, zeitnah (idealerweise innerhalb der nächsten zwei Wochen)
+mit einem technischen Ansprechpartner von ComputerWorks bzw. Vectorworks
+zusammenzukommen, gerne bei Ihnen in Darmstadt vor Ort.
+
+Zum Hintergrund:
+Die Entwurfs- und Ausführungsplanung steht durch generative KI vor einem
+massiven Umbruch. Gemeinsam mit der Monogruen Architekten GmbH setzen wir
+diesen Fortschritt bereits heute direkt im Vectorworks-Workflow um.
+
+Wir nutzen die Marionette-Schnittstelle und Python, um zeitintensive
+Prozesse durch KI-Logiken zu automatisieren, und erzielen damit bereits
+messbare Effizienzgewinne bei Standardaufgaben, u. a.:
+
+•   Automatisierte Bebauungsplanung: Transformation von 2D-Entwürfen in
+    regelkonforme B-Plan-Grundlagen (GFZ, GRZ, Abstandsflächen) inkl.
+    automatisierter Prüfung – ein Arbeitsschritt, der Architekturbüros
+    pro Projekt mehrere Tage spart.
+•   Intelligente Detail-Listen: Automatisierte Generierung und
+    Katalogisierung von Fenstertypen und Bauteilen direkt aus der
+    Entwurfsplanung heraus.
+•   Parametrische Optimierung: KI-gestützte Variantenstudien innerhalb
+    der Vectorworks-Umgebung.
+
+Einen ersten lauffähigen Proof of Concept (Marionette + Python) können wir
+Ihnen gerne im Termin live demonstrieren; ein kurzes Screen-Recording
+stellen wir Ihnen auf Wunsch auch vorab zur Verfügung.
+
+Warum diese Kooperation für ComputerWorks interessant ist:
+Wir entwickeln das Projekt bewusst nicht im Alleingang, sondern suchen die
+strategische Zusammenarbeit mit ComputerWorks und dem Team um Frau Möhlis.
+Ziel ist die gemeinsame Entwicklung marktfähiger Lösungen (z. B.
+spezialisierte Marionette-Nodes oder Plug-ins), die
+
+1.  exklusiven Mehrwert für Vectorworks-Nutzer schaffen,
+2.  gemeinsam vermarktet werden können (Shared Revenue bzw.
+    Product-as-a-Service) und
+3.  die Position von Vectorworks als Innovationsführer im Bereich
+    KI-Integration klar festigen.
+
+Die Monogruen Architekten GmbH liefert dabei die ideale Testumgebung mit
+realen Projektdaten, während wir – die Lean-Engineering UG – die
+technische Umsetzung der KI-Schnittstellen übernehmen.
+
+Für einen ersten fachlichen Austausch mit Ihrem technischen Team wären
+folgende Punkte aus unserer Sicht sinnvoll:
+
+•   kurzer Live-Demo-Teil unseres bestehenden PoC,
+•   Abstimmung zu API- bzw. Developer-Support seitens ComputerWorks,
+•   erste Eckpunkte zu IP- und Vertriebsmodell.
+
+Dürfen wir Ihnen für die kommenden zwei bis drei Wochen ein bis zwei
+Terminvorschläge zusenden – oder nennen Sie uns gerne direkt ein Zeitfenster,
+das Ihnen und dem technischen Ansprechpartner passt?
+
+Beste Grüße
+
+Alexander Bank
+Lean-Engineering UG

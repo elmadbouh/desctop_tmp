@@ -1,0 +1,189 @@
+An:       poststelle@finanzamt-bad-homburg.hessen.de
+Betreff:  Umsatzsteuer-Voranmeldung 1. Quartal 2026 – Rückfrage vom 20.04.2026
+          Steuernummer 003 844 0403 8 – U01 | Geschäftszeichen 04030.01/2026
+          Frist: 13.05.2026
+z. Hd.:   Frau Starke
+a
+------------------------------------------------------------------------------
+
+Sehr geehrte Frau Starke,
+
+vielen Dank für Ihr Schreiben vom 20.04.2026 zur Prüfung meiner Umsatzsteuer-
+Voranmeldung für das 1. Quartal 2026. Gerne komme ich Ihrer Bitte fristgerecht
+nach und übersende Ihnen anbei die erbetenen Nachweise.
+
+1. Zusammenfassung der geltend gemachten Vorsteuer
+
+   Gesamtvorsteuer Q1 2026 laut Voranmeldung:       11.892,17 €
+
+   Die drei betragsmäßig höchsten Eingangsrechnungen, auf die sich nahezu der
+   vollständige Vorsteuerbetrag bezieht, sind:
+
+   +---+-------------------+-----------------------+------------+-----------+-----------+------------+
+   | # | Rechnungsaussteller| Leistung             | Rg.-Datum  | Netto (€) | Steuer    | Vorsteuer  |
+   +---+-------------------+-----------------------+------------+-----------+-----------+------------+
+   | 1 | Autohaus Becker-  | Kauf INEOS Grenadier  | 06.03.2026 | 58.739,50 | 11.160,51 | 11.160,51 €|
+   |   | Tiemann, Wunstorf | Station Wagon (VIN    |            |           | (USt 19%) |            |
+   |   | (BelegNr.         | SC6GM1DA2SF029688,    |            |           |           |            |
+   |   | VRGGF26110092)    | Kennz. HG HN 412)     |            |           |           |            |
+   +---+-------------------+-----------------------+------------+-----------+-----------+------------+
+   | 2 | DEVK Allgemeine   | Kfz-Versicherung      | 10.03.2026 |  1.510,66 |    287,02 |     0,00 € |
+   |   | Versicherungs-AG  | Nr. 545019477         |            |           | (VersSt   | (nicht     |
+   |   | (VS.-Nr.          | (09.03.2026 –         |            |           |  19 %,    |  vorsteuer-|
+   |   | 545019477)        | 08.03.2027)           |            |           |  keine    |  abzugs-   |
+   |   |                   |                       |            |           |  USt)     |  fähig)    |
+   +---+-------------------+-----------------------+------------+-----------+-----------+------------+
+   | 3 | Krah + Enders     | BMW/INEOS-Service:    | 21.04.2026 |    800,00 |    152,00 |    152,00 €|
+   |   | GmbH & Co. KG,    | Side Steps (LH + RH)  | (Leistungs-|           | (USt 19%) |            |
+   |   | Maintal           | Auftrag 324081        |  datum:    |           |           |            |
+   |   | (Rg.-Nr. 23002826)|                       | 20.03.2026)|           |           |            |
+   +---+-------------------+-----------------------+------------+-----------+-----------+------------+
+   |                                            Summe Vorsteuer dieser 3 Rechnungen: 11.312,51 €      |
+   +--------------------------------------------------------------------------------------------------+
+
+   Hinweis zur Rechnung Nr. 2 (DEVK Kfz-Versicherung):
+   Die Rechnung setzt sich zusammen aus einem Nettobeitrag von 1.510,66 €
+   zuzüglich 287,02 € Versicherungsteuer (= 19 % gemäß § 6 Abs. 1 VersStG),
+   in Summe 1.797,68 € brutto. Bei den ausgewiesenen 287,02 € handelt es
+   sich ausdrücklich um Versicherungsteuer nach § 1 VersStG und nicht um
+   Umsatzsteuer. Da Versicherungsleistungen gemäß § 4 Nr. 10 Buchst. a UStG
+   von der Umsatzsteuer befreit sind, kann aus dieser Rechnung kein Vor-
+   steuerabzug geltend gemacht werden (vgl. § 15 Abs. 1 Satz 1 Nr. 1 UStG).
+   Der Betrag von 287,02 € ist daher in der Vorsteuersumme von 11.892,17 €
+   folgerichtig nicht enthalten; die Zahlung wurde in der Einnahmen-/Aus-
+   gaben-Aufzeichnung als Bruttobetriebsausgabe erfasst.
+
+   Ich führe die Rechnung hier dennoch auf, da sie – nach Bruttobetrag –
+   zu den drei höchsten Eingangsrechnungen des 1. Quartals zählt und damit
+   für Ihr Bild der Geschäftsvorfälle relevant sein dürfte. Der tatsächliche
+   „Top 3"-Betrag der Vorsteuer (11.312,51 €) entspricht ca. 95 % der
+   gesamten Vorsteuer des Quartals.
+
+   Der verbleibende Differenzbetrag von 579,66 € verteilt sich auf zahlreiche
+   kleinere Eingangsrechnungen und ist vollständig in der beigefügten tabel-
+   larischen Vorsteuer-Aufstellung für das 1. Quartal 2026 (Anlage 09)
+   dokumentiert (siehe hierzu auch die Erläuterung unter Punkt 4).
+
+
+2. Nachweis der Zahlungen
+
+   Zur Vermeidung weiterer Rückfragen füge ich Ihnen zusätzlich die Kontoauszüge
+   der Commerzbank (IBAN DE78…0077 00 bzw. DE77…2935 00) bei, aus denen die
+   vollständige Bezahlung der o. g. Rechnungen hervorgeht:
+
+   +-------------------+-----------------+------------+------------+---------------------------------+
+   | Rechnung          | Betrag Rechnung | Zahl-Datum | Zahlbetrag | Beleg                           |
+   +-------------------+-----------------+------------+------------+---------------------------------+
+   | Becker-Tiemann    | 69.900,01 €     | 03.03.2026 | 35.000,00 €| Anlage 02 (Anzahlung)           |
+   |                   |                 | 09.03.2026 | 17.401,00 €| Anlage 03 (Restzahlung 1)       |
+   |                   |                 | 09.03.2026 | 17.500,00 €| Anlage 04 (Restzahlung 2)       |
+   |                   |                 |            | ---------  |                                 |
+   |                   |                 |    Summe:  | 69.901,00 €| (geringfügige Überzahlung 0,99 €|
+   |                   |                 |            |            |  wurde gutgeschrieben)          |
+   +-------------------+-----------------+------------+------------+---------------------------------+
+   | DEVK              |  1.797,68 €     | 16.03.2026 |  1.797,68 €| Anlage 06 (SEPA-Lastschrift)    |
+   +-------------------+-----------------+------------+------------+---------------------------------+
+   | Krah + Enders     |    952,00 €     | 23.03.2026 |    952,00 €| Anlage 08 (Kartenzahlung)       |
+   +-------------------+-----------------+------------+------------+---------------------------------+
+
+
+3. Verzeichnis der Anlagen
+
+   +----+-------------------------------------------------------------------------+---------------+
+   | Nr | Dokument                                                                | Betrag        |
+   +----+-------------------------------------------------------------------------+---------------+
+   | 01 | Rechnung Becker-Tiemann Fahrzeugkauf INEOS vom 06.03.2026                | 69.900,01 €   |
+   | 02 | Zahlungsnachweis Becker-Tiemann – Anzahlung vom 03.03.2026               | 35.000,00 €   |
+   | 03 | Zahlungsnachweis Becker-Tiemann – Restzahlung 1 vom 09.03.2026           | 17.401,00 €   |
+   | 04 | Zahlungsnachweis Becker-Tiemann – Restzahlung 2 vom 09.03.2026           | 17.500,00 €   |
+   | 05 | Rechnung DEVK Kfz-Versicherung Nr. 545019477 vom 10.03.2026              |  1.797,68 €   |
+   | 06 | Zahlungsnachweis DEVK Kfz-Versicherung vom 16.03.2026                    |  1.797,68 €   |
+   | 07 | Rechnung Krah + Enders GmbH & Co. KG Nr. 23002826 vom 21.04.2026         |    952,00 €   |
+   |    | (Leistungsdatum 20.03.2026)                                             |               |
+   | 08 | Zahlungsnachweis Krah + Enders – Kartenzahlung vom 23.03.2026            |    952,00 €   |
+   | 09 | Tabellarische Vorsteuer-Aufstellung 01.01.2026 – 31.03.2026              | 11.892,17 €   |
+   |    | (Auszug aus der laufenden Einnahmen-/Ausgaben-Aufzeichnung, Excel-PDF)   |  (Summe)      |
+   +----+-------------------------------------------------------------------------+---------------+
+
+
+4. Ergänzende Anmerkungen zur Vermeidung von Rückfragen
+
+   • Die Eingangsrechnung Becker-Tiemann (Anlage 01) erfüllt sämtliche Pflicht-
+     angaben gemäß § 14 Abs. 4 UStG (vollständige Anschrift, Steuernummer
+     44/201/36501 bzw. USt-IdNr. DE 814 282 971, Rechnungs- und Leistungsdatum,
+     Menge/Art der Leistung, Nettobetrag, Steuersatz, Steuerbetrag, fortlaufende
+     Rechnungsnummer).
+
+   • Das Fahrzeug (INEOS Grenadier, Kennzeichen HG HN 412) wird ausschließlich
+     für unternehmerische Zwecke genutzt; der Vorsteuerabzug erfolgt zu 100 %.
+     Ein Fahrtenbuch wird geführt und kann auf Anforderung jederzeit vorgelegt
+     werden.
+
+   • Die Rechnung Krah + Enders (Anlage 07) wurde vom Aussteller am 21.04.2026
+     ausgefertigt; die Leistung und die Bezahlung erfolgten jedoch bereits am
+     20.03.2026 bzw. 23.03.2026 (Kartenzahlung am Tresen). Der Vorsteuerabzug
+     wurde entsprechend erst im Voranmeldungszeitraum vorgenommen, in dem die
+     ordnungsgemäße Rechnung vorlag – eine Buchungskorrektur ist daher nicht
+     erforderlich.
+
+   • Die DEVK-Rechnung (Anlage 05) enthält ausschließlich Versicherungsteuer
+     (287,02 € gemäß § 1 VersStG); Umsatzsteuer fällt wegen § 4 Nr. 10
+     Buchst. a UStG nicht an. Es wurde daher keine Vorsteuer geltend gemacht.
+
+   • Die beigefügte Vorsteuer-Aufstellung (Anlage 09) weist die Summe von
+   11.892,17 € aus und stimmt mit der Kennziffer 66 der Umsatzsteuer-
+   Voranmeldung für das 1. Quartal 2026 überein.
+
+   • Hinweis zur Form der Aufzeichnungen (anstelle eines klassischen „Sach-
+     kontenausdrucks"):
+     Das Unternehmen wird als Einzelunternehmen geführt. Der Gewinn wird
+     gemäß § 4 Abs. 3 EStG im Wege der Einnahmen-Überschuss-Rechnung (EÜR)
+     ermittelt; eine Buchführungspflicht nach §§ 140, 141 AO besteht nicht,
+     da die Schwellenwerte des § 141 Abs. 1 AO unterschritten werden. Eine
+     doppelte Buchführung mit klassischem Kontenrahmen (SKR 03/04) und damit
+     ein „Sachkonto Vorsteuer" im engeren Sinne wird daher nicht geführt.
+
+     Die nach § 22 UStG i. V. m. §§ 63 ff. UStDV geforderten Aufzeichnungen
+     (insbesondere die getrennte Erfassung der Entgelte, Steuerbeträge und
+     Vorsteuerbeträge, geordnet nach Steuersätzen) erfolgen fortlaufend in
+     einer strukturierten Excel-Aufstellung (Einnahmen-/Ausgaben-Journal).
+     Diese Form der Aufzeichnung ist zulässig, da § 63 Abs. 1 UStDV lediglich
+     verlangt, dass die Aufzeichnungen „so beschaffen sein [müssen], dass
+     es einem sachverständigen Dritten innerhalb angemessener Zeit möglich
+     ist, einen Überblick über die Umsätze des Unternehmers und die abzieh-
+     baren Vorsteuerbeträge zu erhalten". Die Aufstellung wird nach den
+     Grundsätzen ordnungsmäßiger Buchführung und den GoBD (BMF-Schreiben
+     vom 28.11.2019) geführt (Vollständigkeit, Richtigkeit, Zeitgerechtheit,
+     Ordnung, Unveränderbarkeit; belegmäßige Nachweisbarkeit jedes einzelnen
+     Geschäftsvorfalls durch fortlaufende Nummerierung und Verknüpfung mit
+     den entsprechenden Originalbelegen).
+
+     Als Anlage 09 übersende ich Ihnen daher einen PDF-Ausdruck des ent-
+     sprechenden Abschnitts dieser Aufstellung für das 1. Quartal 2026,
+     der in Aufbau und Aussagekraft einem Sachkontoauszug „Vorsteuer 19 %"
+     entspricht (Datum, Belegnummer, Rechnungsaussteller, Nettobetrag,
+     Steuersatz, Vorsteuerbetrag, Gegenkonto/Kostenart). Die Summe der
+     Einzelbeträge (11.892,17 €) stimmt mit der in der Voranmeldung unter
+     Kennziffer 66 erklärten Vorsteuer überein.
+
+     Selbstverständlich stelle ich Ihnen auf Wunsch jederzeit auch die
+     zugrundeliegende Excel-Datei im Originalformat oder weitere Einzel-
+     belege zur Verfügung.
+
+Sollten darüber hinaus weitere Unterlagen oder Erläuterungen benötigt werden,
+stehe ich Ihnen selbstverständlich gerne zur Verfügung. Sie erreichen mich
+unter den unten angegebenen Kontaktdaten.
+
+Mit freundlichen Grüßen
+
+Katharina Solveig Ramisch-El Madbouh
+Bahnhofstr. 16A
+61476 Kronberg im Taunus
+Steuernummer: 003 844 0403 8
+IdNr.: 635057 19240
+
+Telefon: [bitte ergänzen]
+E-Mail:  [bitte ergänzen]
+
+
+Anlagen:  9 Dokumente (PDF), siehe Nr. 3
